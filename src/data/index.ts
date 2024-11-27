@@ -73,20 +73,14 @@ export const projectsItems = [
 export const skillsItems = [
   {
     name: "Vue",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     logo: Vue,
   },
   {
     name: "Angular",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     logo: Angular,
   },
   {
     name: "Codeigniter",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     logo: Codeigniter,
   },
   {
@@ -119,46 +113,19 @@ export const servicesItems = [
   {
     title: "Front Development",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Desarrollo de interfaces de usuario modernas y responsivas utilizando las últimas tecnologías web. Creación de experiencias de usuario intuitivas y atractivas que mejoran la interacción y satisfacción del usuario final.",
     logo: Logo1,
   },
   {
     title: "Backend Development",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Desarrollo de aplicaciones del lado del servidor utilizando tecnologías robustas y escalables. Implementación de APIs, gestión de bases de datos y aseguramiento de la seguridad y eficiencia en el procesamiento de datos.",
     logo: Logo4,
   },
   {
     title: "Servers Management",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Gestión y mantenimiento de servidores para asegurar un rendimiento óptimo y una alta disponibilidad. Configuración, monitoreo y solución de problemas de servidores para garantizar la estabilidad y seguridad de las aplicaciones y servicios.",
     logo: Logo5,
-  },
-];
-
-export const testimonialsItems = [
-  {
-    name: "Tony",
-    review:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    image: Avatar1,
-  },
-  {
-    name: "John Doe",
-    review:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    image: Avatar2,
-  },
-  {
-    name: "Roddin",
-    review:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    image: Avatar3,
-  },
-  {
-    name: "Jane",
-    review:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    image: Avatar4,
   },
 ];
